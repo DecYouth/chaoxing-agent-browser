@@ -1,0 +1,4 @@
+interface:
+  display_name: "超星 Agent Browser 闯关"
+  short_description: "用 agent-browser 接续超星闯关，逐题处理并核对完成状态"
+  default_prompt: "使用 $chaoxing-agent-browser 接续我当前登录账号的超星闯关，逐题处理并保存成绩，使用 agent-browser。"
